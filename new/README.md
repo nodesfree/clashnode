@@ -6,7 +6,8 @@
 
 ### 关注<span style="color: #ff0000;"><a style="color: #ff0000;" href="https://t.me/clashjd">「TG频道</a>」</span>可第一时间获得节点更新消息，还可解锁神秘高速节点！
 
-<h2 class="heading-element" dir="auto" tabindex="-1"><a href="http://goso002.com?from=32977" rel="nofollow"><span style="color: #ff0000;">果书账号商店 </span></a><span style="color: #ffff00;"><span style="color: #800000;">---专住于海外社交账号的零售，包括电报Telegram，小火箭独享账号，苹果各国ID推特Twitter、脸书Facebook、谷歌邮箱Gmail、Instagram、海外版抖音TikTok等账号的零售</span></span></h2>
+
+<div><h2 class="heading-element" dir="auto" tabindex="-1"><a href="http://shop.tgaaaa.co" rel="nofollow"><span style="color: #ff0000;">海外社交账号商店&nbsp;</span></a><span style="color: #ffff00;"><span style="color: #800000;">---专住于海外社交账号的零售批发，包括电报Telegram，小火箭独享账号，苹果各国ID推特Twitter、脸书Facebook、谷歌邮箱Gmail、Instagram、海外版抖音TikTok等账号的零售<a href="http://shop.tgaaaa.co" rel="nofollow"><span style="color: #ff0000;">点击进入购买&nbsp;</span></h2>
 
 2026年度机场测评｜亲测有效💰不掉线🤫宝子们冲鸭！
 宝子们，是不是每次找机场都头秃？😩 网上推荐一大堆，用起来不是卡成狗就是分分钟掉线，要不就是充值了就跑路！😠 我懂你们的痛！所以，跟着节奏往下看！🥳
