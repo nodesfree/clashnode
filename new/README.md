@@ -1,4 +1,4 @@
-## 更新时间 2026-9-27
+## 更新时间 2026-9-28
 
 
 # 2026年便宜好用的翻墙机场评测推荐(长期更新 欢迎推荐) 
@@ -46,7 +46,7 @@
 
 | 机场名称 | 地址 |  | 最便宜订阅 | 按流量购买 |
 | :-- | :-- | :-- | :-- | :-- |
-| [88云加速](https://qq.88cloud.dpdns.org/#/register?code=LSpR3sOK) | [点击进入](https://qq.88cloud.dpdns.org/#/register?code=LSpR3sOK) |  	 | 10元 300G/月 | ✔支持 |
+| [88云加速](https://www.8891888.xyz/#/register?code=LSpR3sOK) | [点击进入](https://www.8891888.xyz/#/register?code=LSpR3sOK) |  	 | 10元 300G/月 | ✔支持 |
 | [星辰vpn](http://c.kilxs.cn/?path=register&code=jWv0CnPO) | [点击进入](http://c.kilxs.cn/?path=register&code=jWv0CnPO) |  | 9.9元 140G/月 |  |
 | [狗狗加速器](https://www.dginv.click/#/register?code=yi5aid0d) | [点击进入](https://www.dginv.click/#/register?code=yi5aid0d) |  | 9.9元 140G/月 |  |
 | [flybit](https://flybit.my/#/register?code=iV0dLWfT) | [点击进入](https://flybit.my/#/register?code=iV0dLWfT) |  | 10元 100G/月 | ✔支持 |
@@ -57,7 +57,7 @@
 
 
 
-### [【88云加速】](https://qq.88cloud.dpdns.org/#/register?code=LSpR3sOK)
+### [【88云加速】](https://www.8891888.xyz/#/register?code=LSpR3sOK)
 
 原生支持解锁流媒体，内容包括 Netflix、Disney、HBO、TVB、Happyon、AbemaTV 等在内的多种流媒体视频
 
@@ -67,7 +67,7 @@
 试用:
 解锁奈飞迪士尼
 
-#### 注册地址：[【88云加速（点击注册）】](https://qq.88cloud.dpdns.org/#/register?code=LSpR3sOK)
+#### 注册地址：[【88云加速（点击注册）】](https://www.8891888.xyz/#/register?code=LSpR3sOK)
 
 *  *   *
 
