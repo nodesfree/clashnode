@@ -1,4 +1,4 @@
-## 更新时间 2026-9-29
+## 更新时间 2026-9-30
 
 
 # 2026年便宜好用的翻墙机场评测推荐(长期更新 欢迎推荐) 
@@ -115,9 +115,9 @@
 
 
 
-### [西游云](https://d.xiyou666.xyz/?path=register&code=2mVFWPT1)
+### [西游云](https://e.xiyou666.xyz/?path=register&code=2mVFWPT1)
 
-注册链接：[点击注册](https://d.xiyou666.xyz/?path=register&code=2mVFWPT1)
+注册链接：[点击注册](https://e.xiyou666.xyz/?path=register&code=2mVFWPT1)
 
 
 试用：
