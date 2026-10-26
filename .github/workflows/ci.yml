@@ -1,0 +1,39 @@
+name: CI - run get_projaec_info
+
+on:
+  push:
+  pull_request:
+
+jobs:
+  run-script:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.11'
+
+      # 可选：调试是否注入了 GITHUB_TOKEN（不会打印值，只打印是否存在）
+      - name: Debug token presence
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          if [ -n "${GITHUB_TOKEN:-}" ]; then
+            echo "GITHUB_TOKEN: present"
+          else
+            echo "GITHUB_TOKEN: missing"
+            # 失败或继续取决于你是否希望中断 CI
+          fi
+
+      - name: Run get_projaec_info.py using GITHUB_TOKEN
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python get_projaec_info.py --token "$GITHUB_TOKEN"
+
+      # 如果你使用自定义 secret（例如 MY_CUSTOM_TOKEN），把上面的 env 和引用替换为:
+      # env:
+      #   GITHUB_TOKEN: ${{ secrets.MY_CUSTOM_TOKEN }}
+      # run: python get_projaec_info.py --token "$GITHUB_TOKEN"
